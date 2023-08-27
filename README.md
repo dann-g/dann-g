@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Daniel (he/him)
+# Hi there 👋 I'm Daniel (he/him)
+
+Business Intelligence Analyst by day 🌞 and Software Engineer by night 🌚
 
 <!--
 **dann-g/dann-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
