@@ -2,6 +2,11 @@
 
 Business Intelligence Analyst by day 🌞 and Software Engineer by night 🌚
 
+Currently Working On:
+ - [My github profile]()
+ - [Learning C++](https://github.com/dann-g/learn_cpp)
+ - [My Portfolio Site]()
+
 <!--
 **dann-g/dann-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
