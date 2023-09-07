@@ -3,7 +3,7 @@
 Business Intelligence Analyst by day 🌞 and Software Engineer by night 🌚
 
 Currently Working On:
- - [Learning React to add to My github profile]()
+ - [ add to My github profile](<https://github.com/dann-g/dann-g)
  - [Learning C++](https://github.com/dann-g/learn_cpp)
  - [My Portfolio Site]()
 
